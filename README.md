@@ -6,7 +6,7 @@ Open `dist/index.html` in a browser, or serve the `dist` folder with any static 
 
 The portrait uses a responsive CSS crop of the supplied photograph to exclude the phone interface; the original image is preserved. The decorative monochrome appearance is a CSS filter.
 
-The Bengaluru project thumbnail is an actual spatial visualisation of the atlas's 1,320 analysis cells and cooling-priority classes. CAREVA's feature description was checked against its project README. Work history, education and contact information were supplied by Rohan.
+The Bengaluru project thumbnail is an actual spatial visualisation of the atlas's 1,320 analysis cells and cooling-priority classes. CAREVA's feature description was checked against its project README. The ShabdAnveshi, Axynetra and Michigan outage-model descriptions and figures were taken from their repository READMEs; their thumbnails are illustrative HTML/CSS previews, not live output. Work history, education and contact information were supplied by Rohan.
 
 The website is hosted on GitHub Pages: https://rohan-ktksu.github.io/rohan-sai-portfolio/
 
